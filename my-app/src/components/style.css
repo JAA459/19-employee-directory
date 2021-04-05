@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+    border: 1px solid black;
+}
+
+tr {
+    border: 1px solid black; 
+}
+.input-group {
+    width: 15%;
+}
+.box {
+    width: 100%;
+    color: blue;
+}
+.text-info {
+    text-align: center;
+}

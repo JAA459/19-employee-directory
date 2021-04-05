@@ -1,7 +1,7 @@
 import axios from "axios";
 
- const UserList = () => {
-  return axios.get("https://randomuser.me/api/?results=200&nat=US");
+ function UserList() {
+  return axios.get("https://randomuser.me/api/?results=50&nat=US");
  }
 
-module.exports = UserList;
+export default { UserList };
