@@ -32,7 +32,12 @@
   ### Licenses ###
   The MIT License
   A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+  
   ### Questions ###
   For further questions you can contact me at:</br>
   GitHub: [JAA459](https://github.com/JAA459) </br>
   Email: [JAlexArroyo@gmail.com](JAlexArroyo@gmail.com)
+  
+   ### Screenshots ###
+  ![alt text](https://github.com/JAA459/19-employee-directory/blob/main/my-app/images/Home.png)
+  ![alt text](https://github.com/JAA459/19-employee-directory/blob/main/my-app/images/search.png)
